@@ -43,7 +43,6 @@ def sum(ll1=LinkedList(), ll2=LinkedList()):
   result_list.print_list()
 
 
-
 ll1, ll2 = LinkedList(), LinkedList()
 ll1.append(Node(3))
 ll1.append(Node(4))
